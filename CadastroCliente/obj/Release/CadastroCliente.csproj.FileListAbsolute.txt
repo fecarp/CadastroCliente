@@ -1,0 +1,14 @@
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\bin\Release\CadastroCliente.exe.config
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\bin\Release\CadastroCliente.exe
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\bin\Release\CadastroCliente.pdb
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Release\MainWindow.g.cs
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Release\App.g.cs
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Release\CadastroCliente_MarkupCompile.cache
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Release\CadastroCliente_MarkupCompile.lref
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Release\MainWindow.baml
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Release\CadastroCliente.g.resources
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Release\CadastroCliente.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Release\CadastroCliente.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Release\CadastroCliente.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Release\CadastroCliente.exe
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Release\CadastroCliente.pdb

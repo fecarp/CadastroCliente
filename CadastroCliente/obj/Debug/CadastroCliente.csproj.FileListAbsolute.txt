@@ -1,0 +1,15 @@
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\bin\Debug\CadastroCliente.exe.config
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\bin\Debug\CadastroCliente.exe
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\bin\Debug\CadastroCliente.pdb
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Debug\CadastroCliente.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Debug\MainWindow.g.cs
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Debug\App.g.cs
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Debug\CadastroCliente_MarkupCompile.cache
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Debug\CadastroCliente_MarkupCompile.lref
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Debug\MainWindow.baml
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Debug\CadastroCliente.g.resources
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Debug\CadastroCliente.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Debug\CadastroCliente.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Debug\CadastroCliente.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Debug\CadastroCliente.exe
+C:\Users\T-Gamer\Desktop\Programação\Angular\RPG\CadastroCliente\obj\Debug\CadastroCliente.pdb
